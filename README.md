@@ -146,7 +146,7 @@ src/
 
 ---
 
-##GitHub Collaboration
+## GitHub Collaboration
 
 The project was developed collaboratively using separate Git branches.
 - feature/array-searching - Array and Searching
@@ -157,7 +157,7 @@ GitHub commits, branches, pull requests, and merges were used to maintain eviden
 
 ---
 
-##How to Run the Program
+## How to Run the Program
 
 1. Clone or download the GitHub repository.
 2. Open the project using Apache NetBeans.
@@ -169,13 +169,13 @@ The main menu provides access to all implemented data structures, searching algo
 
 ---
 
-##Input Validation
+## Input Validation
 
 The system handles invalid menu inputs, empty data structures, missing values, duplicate graph vertices, invalid graph connections, and other invalid operations without terminating unexpectedly.
 
 ---
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the practical use of fundamental data structures and algorithms in a single integrated Java console application. It also demonstrates algorithm performance, complexity, graph traversal, input validation, and collaborative development using GitHub.
 
