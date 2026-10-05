@@ -141,3 +141,42 @@ src/
 ├── graph/
 │   └── Graph.java
 └── Main.java
+
+```
+
+---
+
+##GitHub Collaboration
+
+The project was developed collaboratively using separate Git branches.
+- feature/array-searching - Array and Searching
+- feature/stack-queue - Stack and Queue
+- feature/linkedlist-graph - Linked List and Graph
+- feature/final-integration - Final system integration
+GitHub commits, branches, pull requests, and merges were used to maintain evidence of individual contributions.
+
+---
+
+##How to Run the Program
+
+1. Clone or download the GitHub repository.
+2. Open the project using Apache NetBeans.
+3. Clean and build the project.
+4. Run Main.java.
+5. Select an option from the main menu.
+The main menu provides access to all implemented data structures, searching algorithms, graph traversals, and performance comparison features.
+
+
+---
+
+##Input Validation
+
+The system handles invalid menu inputs, empty data structures, missing values, duplicate graph vertices, invalid graph connections, and other invalid operations without terminating unexpectedly.
+
+---
+
+##Conclusion
+
+This project demonstrates the practical use of fundamental data structures and algorithms in a single integrated Java console application. It also demonstrates algorithm performance, complexity, graph traversal, input validation, and collaborative development using GitHub.
+
+---
